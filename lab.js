@@ -176,3 +176,12 @@ while (z > 0){
   z--
 }
 // Done!
+
+while (z > 0){
+  for (i = z; i > 0; i--){
+  console.log(z)
+  }
+  z--
+}
+
+// Alternate output
